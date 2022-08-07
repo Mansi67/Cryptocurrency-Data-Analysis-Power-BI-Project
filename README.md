@@ -1,2 +1,2 @@
-# Crytocurrency Data Analysis Project
+# Cryptocurrency Data Analysis Project
 
